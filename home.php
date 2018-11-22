@@ -8,5 +8,7 @@
     </head>
     <body>
         <?php include 'mod/nav.php'; ?>
+        <?php include 'css/footer.php';?>
+
     </body>
 </html>
