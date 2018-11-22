@@ -1,3 +1,4 @@
+<?php session_start();
 <PRE>
 </PRE>
 <CENTER>
@@ -6,3 +7,4 @@ Facebook: <I>SaltarinGroupMX</I><BR>
 Alguna duda o comentario, favor de escribirnos a: <B>saltaringroupmx@gmail.com</B><BR>
 </CENTER>
 </BODY>
+?>
